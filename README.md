@@ -20,6 +20,8 @@ NOTES:
 
 * You cannot use your PC to do other tasks while the script is running, simply because the mouse cursor will be active while the script runs.
 
+* You will likely get a Windows Smartscreen alert the first time you run the tool. This happens because the file is not a widely downloaded app on the internet and therefore does not meet the reputation standards by microsoft. The file is completely safe and won't be flagged as harmful by any antivirus programs. You can read more about smartscreen here https://www.advancedinstaller.com/prevent-smartscreen-from-appearing.html
+
 
 ISSUES:
 
