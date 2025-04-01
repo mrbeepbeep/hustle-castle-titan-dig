@@ -4,6 +4,8 @@ This is a simple tool for collecting rewards in the Hustle Castle Titan event. S
 
 NOTES:
 
+* The Hustle Castle Window must not be maximised, once app is started the window will resize and move to the top left of screen then proceed to dig
+
 * The script will collect rewards on 3 vertical lines, and will continue to dig down on the middle line. (See video demonstration)
 
 * As many people will have thousands of pick axes the script is designed to dig fairly quickly, as a result, from time to time it may miss rewards and continue digging.
