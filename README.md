@@ -2,6 +2,10 @@ HUSTLE CASTLE TITANIC EXCAVATION DIGGING TOOL ( MYGAMES PC VERSION ONLY)
 
 This is a simple tool for collecting rewards in the Hustle Castle Titan event. Simply launch the application, and click start and it will start digging automatically until you stop it.
 
+DEMONSTRATION:
+
+https://www.youtube.com/watch?v=DgGZd0iwmp8
+
 NOTES:
 
 * The Hustle Castle Window must not be maximised, once app is started the window will resize and move to the top left of screen then proceed to dig
